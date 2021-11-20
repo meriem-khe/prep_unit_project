@@ -1,6 +1,5 @@
 import numpy as np 
 
-
 def convert_to_floats(rows):
     """convert a list of string tuples to a  ndarray of floats"""
 
